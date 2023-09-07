@@ -1,7 +1,7 @@
-WeatherNow ☀️🌦️🌧️ - Real-Time Weather Information Website
+WeatherNow ☀️🌦️🌧️ - Your Personal Weather Companion 
 
 Description:
-Welcome to WeatherNow 🌍, a remarkable weather website created by a dedicated developer. WeatherNow is your ultimate destination for accessing real-time weather updates, including current temperature 🌡️, humidity 💧, and wind speed 💨, for any location worldwide. This website is a solo project that offers an exceptional online weather experience, ensuring you're always informed about atmospheric conditions.
+Welcome to WeatherNow 🌍, Your Personal Weather Companion is the ultimate destination and source for accessing real-time weather updates, including current temperature 🌡️, humidity 💧, and wind speed 💨, for any location worldwide. This website is a solo project that offers an exceptional online weather experience, ensuring you're always informed about atmospheric conditions.
 
 Features:
 - Real-Time Weather Data: WeatherNow seamlessly fetches the latest weather data from trusted sources, guaranteeing you receive accurate and timely updates.
