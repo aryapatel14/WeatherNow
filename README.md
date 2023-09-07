@@ -6,29 +6,29 @@ Welcome to WeatherNow 🌍, a remarkable weather website created by a dedicated 
 
 Features:
 
-Real-Time Weather Data: WeatherNow seamlessly fetches the latest weather data from trusted sources, guaranteeing you receive accurate and timely updates.
+- Real-Time Weather Data: WeatherNow seamlessly fetches the latest weather data from trusted sources, guaranteeing you receive accurate and timely updates.
 
-Global Coverage: Regardless of your location or travel plans, WeatherNow provides comprehensive weather information worldwide 🌎. Just input your desired location, and WeatherNow will promptly provide precise weather details.
+- Global Coverage: Regardless of your location or travel plans, WeatherNow provides comprehensive weather information worldwide 🌎. Just input your desired location, and WeatherNow will promptly provide precise weather details.
 
-Intuitive User Interface: WeatherNow's user-friendly design prioritizes essential weather information while eliminating unnecessary clutter. It offers an effortless and efficient way to access weather data.
+- Intuitive User Interface: WeatherNow's user-friendly design prioritizes essential weather information while eliminating unnecessary clutter. It offers an effortless and efficient way to access weather data.
 
-Current Temperature: Access the latest temperature reading 🌡️ for your selected location, whether it's a scorching summer day ☀️ or a chilly winter night ❄️.
+- Current Temperature: Access the latest temperature reading 🌡️ for your selected location, whether it's a scorching summer day ☀️ or a chilly winter night ❄️.
 
-Humidity Levels: Keep tabs on the humidity 💧 in your area, as it significantly affects your comfort and well-being. WeatherNow provides real-time humidity information.
+- Humidity Levels: Keep tabs on the humidity 💧 in your area, as it significantly affects your comfort and well-being. WeatherNow provides real-time humidity information.
 
-Wind Speed: Make informed decisions about outdoor activities by checking the wind speed 💨 in your vicinity. WeatherNow offers up-to-the-minute wind speed data.
+- Wind Speed: Make informed decisions about outdoor activities by checking the wind speed 💨 in your vicinity. WeatherNow offers up-to-the-minute wind speed data.
 
-Responsive Design: WeatherNow is thoughtfully designed to work seamlessly across different devices 📱💻, ensuring you have access to weather information no matter where you are.
+- Responsive Design: WeatherNow is thoughtfully designed to work seamlessly across different devices 📱💻, ensuring you have access to weather information no matter where you are.
 
-Open Source: WeatherNow is an open-source project 🧩, enabling the community to contribute to its development and customize it to suit their needs.
+- Open Source: WeatherNow is an open-source project 🧩, enabling the community to contribute to its development and customize it to suit their needs.
 
 How to Use:
 
-Access the WeatherNow website by visiting Website URL.
+1. Access the WeatherNow website by visiting Website URL.
 
-Enter the location for which you want to check the weather into the search bar 🔍.
+2. Enter the location for which you want to check the weather into the search bar 🔍.
 
-Instantly view the current temperature, humidity, and wind speed for that location.
+3. Instantly view the current temperature, humidity, and wind speed for that location.
 
 Contributing:
 
@@ -39,4 +39,4 @@ Stay Connected:
 Follow WeatherNow on GitHub to stay informed about updates, bug fixes, and feature releases.
 
 GitHub Repository: Link to GitHub Repository
-With WeatherNow, you can trust that you'll always be prepared for whatever weather comes your way. Access the website now and experience the power of real-time weather information, meticulously crafted by a passionate developer! 🌤️🌈🌨️
+With WeatherNow, you can trust that you'll always be prepared for whatever weather comes your way. Access the website now and experience the power of real-time weather information, meticulously crafted by a passionate developer! 🌤️🌨️
