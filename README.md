@@ -16,7 +16,7 @@ Features:
 How to Use:
 1. Access the WeatherNow website by visiting Website URL.
 2. Enter the location for which you want to check the weather into the search bar 🔍.
-3. Instantly view the current temperature, humidity, and wind speed for that location.
+3. Instantly view the current temperature, humidity, and live wind speed for that location, updated in real-time through API integration.
 
 Contributing:
 As the creator of WeatherNow, I welcome contributions from fellow developers to enhance this website. Whether you'd like to fix a bug 🐛, introduce new features 🚀, or improve documentation 📚, please consult the contribution guidelines in the repository.
